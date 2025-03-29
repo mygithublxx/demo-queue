@@ -76,7 +76,7 @@ const App = () => {
     <Queue
       steps={[step1, step2, step3]}
       onFinish={() => {
-        console.log('结束了~');
+        console.log('结束了~测试');
         queueRef.current?.reset();
       }}
       ref={queueRef}
