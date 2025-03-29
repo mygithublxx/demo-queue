@@ -1,0 +1,47 @@
+<mxfile host="65bd71144e">
+    <diagram id="Ovx2OgmPfpzL_TPsnc4P" name="第 1 页">
+        <mxGraphModel dx="701" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="284" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="284" y="369" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="173" y="117" width="352" height="288" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="197" y="155" width="173" height="231" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="372" y="155" width="120" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="调度器scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="201" y="157" width="81" height="195" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="协调器reconciler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+                    <mxGeometry x="286" y="157" width="81" height="195" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="React整体渲染流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0f0f0f;" vertex="1" parent="1">
+                    <mxGeometry x="286" y="122" width="144.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="render阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0f0f0f;" vertex="1" parent="1">
+                    <mxGeometry x="207" y="358" width="144.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="commit阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0f0f0f;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="355" width="144.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="渲染器renderer" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="379" y="157" width="106" height="192.5" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
